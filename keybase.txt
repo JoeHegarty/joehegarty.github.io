@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/joeh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.joeh.ca
+  * I am joeh (https://keybase.io/joeh) on keybase.
+  * I have a public key with fingerprint AFD8 C939 42DF 03D1 C077  F366 886B FE4A 5405 C2D9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018fa986f75171d1287ffd997d5afa7e2043825b43f00da6d69d3edc5c4ce5cb520a",
+      "fingerprint": "afd8c93942df03d1c077f366886bfe4a5405c2d9",
+      "host": "keybase.io",
+      "key_id": "886bfe4a5405c2d9",
+      "kid": "01018fa986f75171d1287ffd997d5afa7e2043825b43f00da6d69d3edc5c4ce5cb520a",
+      "uid": "80558a5fe57d217ebc34b1e608d3dc19",
+      "username": "joeh"
+    },
+    "merkle_root": {
+      "ctime": 1556345216,
+      "hash_meta": "5df2982957b9f501467dc87fa88dabf75ca74f33997fd5c74318c57a154cd393",
+      "seqno": 5252101
+    },
+    "revoke": {
+      "sig_ids": [
+        "082003a89ea0d48f44051cac00ec1eee8a17582e50edb8f96d63ea047b636d880f"
+      ]
+    },
+    "service": {
+      "hostname": "www.joeh.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1556345219,
+  "expire_in": 157680000,
+  "prev": "228cfd660debaec3e2346b5cb52831aa786a61712df61dff1142cf52b08caa30",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMPMAnicrVNrbFRFGN2CkNJSKguSBojIFcLDbZ37mHvnbgNsLIiFkAIRFQtZ5s6j
+u273ebcv3ilKWxIUDFW0lBJB5VkxWLQqj1KIkm01RUoRSlFRNCCSEmKEiHW2YkyM
+P50/N3PnfOec78w3JzMGOtJSqgN/zHl60ImvUxInoiWOJa2961ZIVphWSO4VUoD1
+f1gxZXbcG/BTyS0BGciIYxPp3ICyIVNZQQbn1DQNCjHHBlOApiIFWprKAaBYp7pJ
+VUYJJBphkFhQAVhySdwfKmKxSMwfigtazCkipmpqCuVApTIBhsFVXUdItzjTMNQA
+JAo1RaEvbCcrhDkL2yzHHxb/xMbbb+8/8P+z75K/dACECEPOoEEV2WAWUTVLZjpA
+VKVETuqW2CwWwkEm0C+EmU9a5ZKCLBYoZt5YOBxPBkvi/uSxDKGualCRddEctn3e
+IItjUQUpV0ykmNCwTA6BrOkGJcI0RohiS7RBsKFxVRUtcAqJoakyItDAMtQIVU1V
+eLBZNBSW3FAR7EAWDmKsNBxgSXHbXyQisyV3oQSQAoCKkckwoBrimghPJpgAwIjM
+GENYNiBSGASMWoibIhpVQDXD0lWdIgS4tHRVUixW6if95Mk7ut97WVlZTrL/HJJM
+LxILx8MkXCwOfPF4xHYnY4lXRPqRzPLe5/Ba/hAVAyIqSlnM9odDIiaB/Hdipkti
+5RF/jHn9SQQ0dATESuqwUkGpKIhwquuAMgszojJF1XSr/zKRKmNsIB3rYhrE1Oky
+5VyWNYVwqFgAEYxV8E+ESBM+cZHgFMGFcLwkxqRVJ1qWPOBISXMMHjQg+XIcaUMe
+/Ps9DWKZ90acz59SbjWVr6TlW6pv3trUO9JIdR3LW/ShHLjeXdjcl9coge7g+ssn
+Z9aBvFPt3O0M3DmzLXgk2jD/ycSuohljys/V724YVjW3c9jnH5yund9QuP7iAs7z
+p+9zPLblrdKeTHWu65V13jn6iOU9Qy99G+h6vPPcuGurU2ZMbjrwRovkid4sHWnX
+ug43H4k0ZzyRMuFLtePC7BbPL1dOeY072517Wo+GynOvduYetCteX7Sg96Sn8tNj
+M4e2JtxVVQXx8SRr/XO5zTx12/v3aqoOp/80Yvbi/be6OqcPf+k7KbVj78YaV83i
+KdlnD4wcOLneOHjoGl/a2LRQ3XA3+867x3917qqVbzv3wOtWIrpu547tt9vG/ngo
+M3vr2R1H165W/ONrvicfH+wbBR++OG/Uwgh29m7LSR03ZtK0sb5nJpy+OvFK4Tse
+Uv9N/qtWhZ0Y/cOMrdkPVV+OdW92XN7RMGmzZ+CyjaldLm/OrMYCUDdrdzo/fOa9
+t88f3dMx2bNhYbjp3rILZZ9MHb922mc9zQV1N1b2VfqGpGfoUx99s7Yg/YLtvLvY
+F9rft1Otiw6vbNkUz7j7ckbPF7mR4FPzOurxmuXbB9e1ZSS6s/Derwa0OGsv/bbm
+eMDz2ujqfWlrrtQ8kt2It7TnR9t/z9o0/8UJi9qeb00Esyq7bt2u6tjadmNDZnHe
+1YnPtn807udc158JpP2Z
+=5y9X
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeh
+
+==================================================================
